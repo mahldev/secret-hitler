@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://brwsnt73lmlii"]
+
+[node name="tablero" type="Node2D"]

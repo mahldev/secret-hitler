@@ -1,0 +1,20 @@
+[gd_scene load_steps=6 format=3 uid="uid://bf7qvbbbpgggi"]
+
+[ext_resource type="PackedScene" uid="uid://t21od2umql63" path="res://botones/voto_ja.tscn" id="1_45lm3"]
+[ext_resource type="PackedScene" uid="uid://3lgkxdy4qigo" path="res://fondo.tscn" id="1_qa2v5"]
+[ext_resource type="PackedScene" uid="uid://chtgv1pwsibjw" path="res://botones/voto_nein.tscn" id="2_e0c27"]
+[ext_resource type="Script" path="res://botones/voto_ja.gd" id="3_ncr1w"]
+[ext_resource type="Script" path="res://botones/voto_nein.gd" id="5_hrpaa"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="StaticBody2D" parent="." instance=ExtResource("1_qa2v5")]
+position = Vector2(1, 1)
+
+[node name="voto Ja" parent="." instance=ExtResource("1_45lm3")]
+position = Vector2(418, 473)
+script = ExtResource("3_ncr1w")
+
+[node name="voto Ja2" parent="." instance=ExtResource("2_e0c27")]
+position = Vector2(553, 469)
+script = ExtResource("5_hrpaa")
