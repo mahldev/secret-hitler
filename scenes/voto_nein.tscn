@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://chtgv1pwsibjw"]
+
+[ext_resource type="Texture2D" uid="uid://b2qshryp7etnt" path="res://assets/voto_nein.png" id="1_itrmp"]
+
+[node name="voto nein" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = 5.0
+offset_top = 6.0
+offset_right = 122.0
+offset_bottom = 163.0
+texture = ExtResource("1_itrmp")
+expand_mode = 1
+
+[node name="voto-nein" type="Button" parent="."]
+offset_left = 5.0
+offset_top = 4.0
+offset_right = 126.0
+offset_bottom = 164.0

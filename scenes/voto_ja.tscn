@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://t21od2umql63"]
+
+[ext_resource type="Texture2D" uid="uid://cqy455s6xdwkv" path="res://assets/voto_ja.png" id="1_c84hs"]
+
+[node name="voto Ja" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = 5.0
+offset_top = 6.0
+offset_right = 118.0
+offset_bottom = 155.0
+texture = ExtResource("1_c84hs")
+expand_mode = 1
+
+[node name="voto-ja" type="Button" parent="."]
+offset_left = 5.0
+offset_top = 6.0
+offset_right = 121.0
+offset_bottom = 156.0
