@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cui7b03rmsfy4"
-path="res://.godot/imported/roll_liberal.png-ea0d6db06c8753ff84912518dc5215d6.ctex"
+path="res://.godot/imported/roll_liberal.png-444bfa388d88381ea5f9647d2fe49ce6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/roll_liberal.png"
-dest_files=["res://.godot/imported/roll_liberal.png-ea0d6db06c8753ff84912518dc5215d6.ctex"]
+source_file="res://assets/roll_liberal.png"
+dest_files=["res://.godot/imported/roll_liberal.png-444bfa388d88381ea5f9647d2fe49ce6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfc870no2531l"
-path="res://.godot/imported/ley_fascista.png-137c8c6386a156989f715b3f4043a249.ctex"
+path="res://.godot/imported/ley_fascista.png-f1430724814fd862a264e89655662e00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ley_fascista.png"
-dest_files=["res://.godot/imported/ley_fascista.png-137c8c6386a156989f715b3f4043a249.ctex"]
+source_file="res://assets/ley_fascista.png"
+dest_files=["res://.godot/imported/ley_fascista.png-f1430724814fd862a264e89655662e00.ctex"]
 
 [params]
 

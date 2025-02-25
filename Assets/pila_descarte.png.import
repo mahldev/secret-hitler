@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nowd6opcu1a2"
-path="res://.godot/imported/pila_descarte.png-c09b7c61fd86abffeb28540ce12561c4.ctex"
+path="res://.godot/imported/pila_descarte.png-5a63b87e424c89c731a87c988b8d3fb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/pila_descarte.png"
-dest_files=["res://.godot/imported/pila_descarte.png-c09b7c61fd86abffeb28540ce12561c4.ctex"]
+source_file="res://assets/pila_descarte.png"
+dest_files=["res://.godot/imported/pila_descarte.png-5a63b87e424c89c731a87c988b8d3fb3.ctex"]
 
 [params]
 

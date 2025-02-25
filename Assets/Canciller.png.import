@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brt78byntytbw"
-path="res://.godot/imported/Canciller.png-6b3912646b495ef80eb919152bacf4e6.ctex"
+path="res://.godot/imported/Canciller.png-eabf9e6f709b777a083eb7dc32927718.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Canciller.png"
-dest_files=["res://.godot/imported/Canciller.png-6b3912646b495ef80eb919152bacf4e6.ctex"]
+source_file="res://assets/Canciller.png"
+dest_files=["res://.godot/imported/Canciller.png-eabf9e6f709b777a083eb7dc32927718.ctex"]
 
 [params]
 

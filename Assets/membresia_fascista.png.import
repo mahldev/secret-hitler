@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi8qcrr5fsoo7"
-path="res://.godot/imported/membresia_fascista.png-c98649c49305d23747460496561db41a.ctex"
+path="res://.godot/imported/membresia_fascista.png-3c3e2482a5ae65cbac7e480dc21d665f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/membresia_fascista.png"
-dest_files=["res://.godot/imported/membresia_fascista.png-c98649c49305d23747460496561db41a.ctex"]
+source_file="res://assets/membresia_fascista.png"
+dest_files=["res://.godot/imported/membresia_fascista.png-3c3e2482a5ae65cbac7e480dc21d665f.ctex"]
 
 [params]
 

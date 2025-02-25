@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crcu4dom16ve6"
-path="res://.godot/imported/gimp_tablero_liberal.png-c0c5d602c0775b322f190c45da60b845.ctex"
+path="res://.godot/imported/gimp_tablero_liberal.png-ad69afc417a57585a0097e0e9c62a184.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/gimp_tablero_liberal.png"
-dest_files=["res://.godot/imported/gimp_tablero_liberal.png-c0c5d602c0775b322f190c45da60b845.ctex"]
+source_file="res://assets/gimp_tablero_liberal.png"
+dest_files=["res://.godot/imported/gimp_tablero_liberal.png-ad69afc417a57585a0097e0e9c62a184.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsl3p000ccw28"
-path="res://.godot/imported/membresia_liberal.png-dd63baf7ca01b0e41d9c57177c071278.ctex"
+path="res://.godot/imported/membresia_liberal.png-3f6fbb139394cc3c68820ebd71f1fc36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/membresia_liberal.png"
-dest_files=["res://.godot/imported/membresia_liberal.png-dd63baf7ca01b0e41d9c57177c071278.ctex"]
+source_file="res://assets/membresia_liberal.png"
+dest_files=["res://.godot/imported/membresia_liberal.png-3f6fbb139394cc3c68820ebd71f1fc36.ctex"]
 
 [params]
 
